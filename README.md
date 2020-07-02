@@ -2,4 +2,5 @@
 
 Hosted [here](https://daduam.github.io/fcc-tribute-page)
 
-It does not pass one test.
+I promise to add content :sweat_smile:
+ 
