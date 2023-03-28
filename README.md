@@ -1,6 +1,4 @@
-# fcc-tribute-page
+# tribute-page
 
-Hosted [here](https://daduam.github.io/fcc-tribute-page)
-
-I promise to add content :sweat_smile:
+Hosted [here](https://daduam.github.io/tribute-page)
  
